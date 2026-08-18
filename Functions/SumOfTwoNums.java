@@ -1,4 +1,4 @@
-package Functions.Methods;
+package Functions;
 import java.util.Scanner;
 
 public class SumOfTwoNums {
